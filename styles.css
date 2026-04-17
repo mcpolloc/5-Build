@@ -102,12 +102,6 @@ footer {
     margin-top: 1rem;
 }
 
-#collaborations img {
-    width: 100%;
-    max-width: 500px;
-    height: auto;
-}
-
 /* ===== Media Query (Medium) ===== */
 @media (min-width: 800px) {
     body {
